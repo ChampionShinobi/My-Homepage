@@ -1,7 +1,7 @@
 ---
 title: "Ethical Considerations in Deploying LLMs for Real-World Applications"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2025-01-10-ethical-llms
 excerpt: 'This study examines ethical challenges in LLM deployment, including bias mitigation and privacy concerns, proposing a framework for responsible AI integration.'
 date: 2025-01-10
